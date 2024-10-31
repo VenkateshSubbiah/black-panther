@@ -19,6 +19,8 @@ Gathers logs from all the AWS services.
 - Live tail
 - CloudWatch logs agent and Unified agent
 - CloudWatch Events is now EventBridge
+
+
 ## AWS Command Line Interface (AWS CLI)
 
 ## AWS Compute Optimizer

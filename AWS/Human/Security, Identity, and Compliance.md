@@ -1,23 +1,4 @@
 ## AWS Artifact
-[AWS Artifact](https://aws.amazon.com/en/artifact/) is your one-stop resource for compliance-related information that is important to you.
-
-It provides on-demand access to AWS security and compliance reports and select online contracts.
-
-Reports available on AWS Artifact include our reports for:
-
-- Service Organization Control (SOC)
-- Payment Card Industry (PCI) reports
-- Certifications from accreditation bodies across geographies and compliance verticals that validate the implementation and operational effectiveness of AWS security controls.
-
-Agreements available on [AWS Artifact](https://aws.amazon.com/en/artifact/) include the Business Associate Addendum (BAA) and Nondisclosure Agreement (NDA).
-
-[AWS Artifact](https://aws.amazon.com/pt/artifact/) is the go-to, central resource for compliance-related information that matters to you. It provides on-demand access to AWS' security and compliance reports and select online agreements.
-
-Reports available in [AWS Artifact](https://aws.amazon.com/en/artifact/) include Service Organization Control [(SOC) reports, Payment Card Industry (PCI) reports]([https://aws.amazon](https://aws.amazon/). com/blogs/security/tag/aws-soc-reports/), and certifications from accreditation bodies across geographies and vertical compliance that validate the implementation and operating effectiveness of AWS security controls.
-
-AWS Artifact, available in the console, is a self-service audit artifact retrieval portal that provides our customers with on-demand access to AWS’ compliance documentation and AWS agreements.
-
-You can use AWS Artifact Reports to download AWS security and compliance documents, such as AWS ISO certifications, Payment Card Industry (PCI), and System and Organization Control (SOC) reports.
 ## AWS Audit Manager
 
 ## AWS Certificate Manager (ACM)
